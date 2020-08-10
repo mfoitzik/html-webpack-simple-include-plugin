@@ -58,12 +58,10 @@ module.exports = {
     <head>
       <meta charset="UTF-8">
       <title>My Web Page</title>
-      <!-- css:bootstrap -->
     </head>
     <body>
       <include-header />
       <p>Main COntent</p>
-      <!-- js:bootstrap -->
       <include-footer />
     </body>
 </html>
