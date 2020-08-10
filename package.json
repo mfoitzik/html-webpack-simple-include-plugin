@@ -1,0 +1,40 @@
+{
+  "name": "html-webpack-simple-include-plugin",
+  "version": "1.0.0",
+  "description": "A simple include plugin for inserting html includes. To be used along with HTML Webpack plugin.",
+  "main": "./dist/index.js",
+  "scripts": {
+    "build": "babel src -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mfoitzik/html-webpack-simple-include-plugin.git"
+  },
+  "keywords": [
+    "html-webpack-simple-include-plugin",
+    "html",
+    "replace",
+    "webpack",
+    "plugin",
+    "include",
+    "snippet",
+    "partial",
+    "header",
+    "footer"
+  ],
+  "author": "Mike Foitzik <mike@mifo.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mfoitzik/html-webpack-simple-include-plugin/issues"
+  },
+  "homepage": "https://github.com/mfoitzik/html-webpack-simple-include-plugin#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.10.5",
+    "@babel/core": "^7.11.1",
+    "@babel/preset-env": "^7.11.0",
+    "babel-loader": "^8.1.0",
+    "html-webpack-plugin": "^4.3.0",
+    "webpack": "^4.44.1",
+    "webpack-cli": "^3.3.12"
+  }
+}
