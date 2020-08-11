@@ -1,6 +1,6 @@
 {
   "name": "html-webpack-simple-include-plugin",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A simple include plugin for inserting html includes. To be used along with HTML Webpack plugin.",
   "main": "index.js",
   "scripts": {

@@ -1,6 +1,6 @@
 # [html-webpack-simple-include-plugin]
 
-This is a webpack plugin that provides a way to do simple HTML includes in your html files. The intended purpose is to add common snippets like headers, footers, sdebars, etc. into the html pages. It was originally designed for situations where a multi page website is being generated with webpack.
+This is a webpack plugin that provides a way to do simple HTML includes in your html files. The intended purpose is to add common snippets like headers, footers, sidebars, etc. into the html pages. It was originally designed for situations where a multi page website is being generated with webpack.
 
 ## PLEASE NOTE: This plugin works in conjunjunction with html-webpack-plugin
 
